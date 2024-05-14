@@ -1,0 +1,4 @@
+repository "CatLost@meomun1231@cloud"
+  path "/"
+    br "/main"
+    co "/main"
